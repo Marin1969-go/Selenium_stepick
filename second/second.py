@@ -7,7 +7,7 @@ def fff(a,d):
 def ddd(a,d):
     return a**d
 def mmm(a,d):
-    return m.sin(a*d)
+    return m.sin(a*d+7)
 
 if __name__ == '__main__':
     print(fff(2,2))
